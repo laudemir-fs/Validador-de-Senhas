@@ -82,6 +82,5 @@ namespace Validador.Repository
             return errosAoValidarSenha;
         }
 
-
     }
 }
